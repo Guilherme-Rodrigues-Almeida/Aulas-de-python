@@ -1,0 +1,1 @@
+# ** = potencia; // = divisão inteira; % = resto da divisão
