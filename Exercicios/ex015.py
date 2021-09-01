@@ -1,5 +1,5 @@
 print("")
-aluguel = float(input("Quantos dias alugados? "))
+dias= float(input("Quantos dias alugados? "))
 km_rodados = float(input("Quantos Km rodados? "))
-total_pagar = (aluguel * 60) + (km_rodados * 0.15)
-print(f"O total a pagar é de {total_pagar :.2f}")
+total_pagar = (dias * 60) + (km_rodados * 0.15)
+print(f"O total a pagar é de R${total_pagar :.2f}")
