@@ -1,0 +1,17 @@
+print("")
+n = int(input("Digite um número para ver sua tabuada: "))
+print("")
+print("=" * 20)
+
+print(f"{n} x 1 = {n * 1}")
+print(f"{n} x 1 = {n * 2}")
+print(f"{n} x 1 = {n * 3}")
+print(f"{n} x 1 = {n * 4}")
+print(f"{n} x 1 = {n * 5}")
+print(f"{n} x 1 = {n * 6}")
+print(f"{n} x 1 = {n * 7}")
+print(f"{n} x 1 = {n * 8}")
+print(f"{n} x 1 = {n * 9}")
+print(f"{n} x 1 = {n * 10}")
+
+print("=" * 20)
